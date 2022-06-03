@@ -1,0 +1,5 @@
+# ConnectIQ files
+*.prg
+*.iq
+bin/*
+/images/local/
