@@ -1,10 +1,6 @@
 # BodyBatteryDF
 Body Battery data field for Garmin watches
 
-[![Available on Garmin Connect IQ](images/available-connect-iq-badge.svg)](https://apps.garmin.com/en-US/apps/7a946b75-69d8-4594-8efe-b68d6ef84cb0)
-
-[<img src="images/available-connect-iq-badge.svg" height="60">](https://apps.garmin.com/en-US/apps/7a946b75-69d8-4594-8efe-b68d6ef84cb0)
-
 <a href="https://apps.garmin.com/en-US/apps/7a946b75-69d8-4594-8efe-b68d6ef84cb0"><img src="images/available-connect-iq-badge.svg" height="60" alt="Download from Garmin Connect IQ"></a>
 
 # Description
