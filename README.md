@@ -14,6 +14,12 @@ You can add it as a Connect IQ DF to your activity layout:
 3. You can change the Layout and add a new field or you can change an existing Data Field.
 4. In Data Fields - Start - ConnectIQ Fields - Body Battery
 5. Exit the {activity} settings.
-You can start now your activity.
+You can start your activity now.
 
 If you like this DF, send me a beer: https://paypal.me/GavrielF
+
+## Changelog
+
+1.2 (2023-03-03) added fr265, fr965 devices
+1.1 (2022-12-19) added d2airx10 d2mach1 descentmk2 instinctcrossover marq2 venusq2 legacy* devices
+1.0.0 (2022-06-03) initial release

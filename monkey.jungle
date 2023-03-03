@@ -1,3 +1,6 @@
 project.manifest = manifest.xml
 project.typecheck = 3
 project.optimization = 2z
+
+base.sourcePath = source
+base.excludeAnnotations = exclude
