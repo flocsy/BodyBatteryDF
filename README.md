@@ -21,6 +21,9 @@ If you like this DF, send me a beer: https://paypal.me/GavrielF
 ## Changelog
 
 1.3 (2024-02-13) added new devices
+
 1.2 (2023-03-03) added fr265, fr965 devices
+
 1.1 (2022-12-19) added d2airx10 d2mach1 descentmk2 instinctcrossover marq2 venusq2 legacy* devices
+
 1.0.0 (2022-06-03) initial release
