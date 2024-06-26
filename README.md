@@ -9,16 +9,18 @@ Body Battery data field. Simple as that.
 
 You can add it as a Connect IQ DF to your activity layout:
 
-1. From the watch screen enter the activity: Start - choose your activity
-2. Up (Options) - {activity} settings - Data Screens - choose screen - Start
+1. From the watch screen enter the activity: Start ≫ choose your activity
+2. Up (Options) ≫ {activity} settings ≫ Data Screens ≫ choose screen ≫ Start
 3. You can change the Layout and add a new field or you can change an existing Data Field.
-4. In Data Fields - Start - ConnectIQ Fields - Body Battery
+4. In Data Fields ≫ Start ≫ ConnectIQ Fields ≫ Body Battery
 5. Exit the {activity} settings.
 You can start your activity now.
 
 If you like this DF, send me a beer: https://paypal.me/GavrielF
 
 ## Changelog
+
+1.4 (2024-06-27) added fr165* devices
 
 1.3 (2024-02-13) added new devices
 

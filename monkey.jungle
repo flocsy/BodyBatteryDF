@@ -1,6 +1,18 @@
+# GENERATED from 'monkey.template.jungle' by https://github.com/flocsy/garmin-dev-tools/tree/main/monkey-generator/ ©2022-2024 by flocsy
+
 project.manifest = manifest.xml
 project.typecheck = 3
 project.optimization = 2z
 
-base.sourcePath = source
-base.excludeAnnotations = exclude
+# base.sourcePath = source
+# base.excludeAnnotations = exclude
+
+# monkey_generator_filter_device_has = getBodyBatteryHistory
+
+# GENERATED #
+# excluded 61 devices that are incompatible and are not in manifest.xml: approachs60, approachs62, d2air, d2bravo, d2bravo_titanium, d2charlie, d2delta, d2deltapx, d2deltas, descentmk1, edge1030, edge1030bontrager, edge1030plus, edge1040, edge1050, edge130, edge130plus, edge520plus, edge530, edge540, edge820, edge830, edge840, edge_1000, edge_520, edgeexplore, edgeexplore2, epix, fenix3, fenix3_hr, fenix5, fenix5plus, fenix5s, fenix5splus, fenix5x, fenix5xplus, fenixchronos, fr230, fr235, fr45, fr630, fr645, fr645m, fr735xt, fr920xt, fr935, garminswim2, gpsmap66, gpsmap67, gpsmap86, montana7xx, oregon7xx, rino7xx, venud, vivoactive, vivoactive3, vivoactive3d, vivoactive3m, vivoactive3mlte, vivoactive_hr, vivolife
+# filtered out 0 incompatible devices by constraints from manifest.xml: 
+# included 71 devices
+
+base.sourcePath=source
+base.excludeAnnotations=exclude
