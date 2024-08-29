@@ -20,6 +20,8 @@ If you like this DF, send me a beer: https://paypal.me/GavrielF
 
 ## Changelog
 
+1.5 (2024-08-29) added fenix8*, fenixe, enduro3 devices
+
 1.4 (2024-06-27) added fr165* devices
 
 1.3 (2024-02-13) added new devices
