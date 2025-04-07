@@ -20,6 +20,8 @@ If you like this DF, send me a beer: https://paypal.me/GavrielF
 
 ## Changelog
 
+1.7 (2025-04-07) added approachs50, descentg2, enduro, vivoactive6 devices
+
 1.6 (2025-01-09) added instinct3*, instincte, fr55 devices
 
 1.5 (2024-08-29) added fenix8*, fenixe, enduro3 devices
